@@ -1,5 +1,5 @@
 asyncio
-sqlite3 3.4.3
+sqlite3
 datetime
 aiogram
 requests
