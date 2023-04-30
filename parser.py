@@ -1,8 +1,6 @@
 import sqlite3
-
 from bs4 import BeautifulSoup
 import requests
-import lxml
 
 
 DB_PATH_USER = 'db/questions1.db'
